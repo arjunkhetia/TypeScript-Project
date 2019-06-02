@@ -1,0 +1,28 @@
+{
+  "name": "typescript-project",
+  "version": "1.0.0",
+  "description": "TypeScript Template",
+  "scripts": {
+    "tsc": "tsc",
+    "start": "node ./build/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjunkhetia/TypeScript-Project.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "Template",
+    "Project"
+  ],
+  "author": "Arjun Khetia <arjunkhetia@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arjunkhetia/TypeScript-Project/issues"
+  },
+  "homepage": "https://github.com/arjunkhetia/TypeScript-Project#readme",
+  "devDependencies": {
+    "typescript": "^3.5.1"
+  }
+}
