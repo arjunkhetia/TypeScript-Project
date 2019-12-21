@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/arjunkhetia/TypeScript-Project#readme",
   "devDependencies": {
-    "typescript": "^3.7.2"
+    "typescript": "^3.7.4"
   }
 }
